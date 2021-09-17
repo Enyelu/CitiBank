@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "d2daf97b-78fc-482c-8b88-11bb39ffc84a",
+    "CustomerId": "09a01964-cfb2-4c64-81dd-8cb0a3cfb240",
+    "SupplierId": "09948aa5-1afa-4272-aa33-da9ce22c27f5",
+    "CreationDate": "8/30/2020"
+  },
+  {
+    "Id": "4980368a-1fe1-49f5-adb4-851afe5390d6",
+    "CustomerId": "101bd1c4-07e9-4d35-b25b-f9de291e55b0",
+    "SupplierId": "0fa90d0b-38a9-46dd-b98e-bed7e8e8077a",
+    "CreationDate": "10/5/2020"
+  },
+  {
+    "Id": "104b4bf9-181f-4940-92fe-b5b4cc3d9d62",
+    "CustomerId": "1995277d-e298-4411-83a4-fa44121c7c06",
+    "SupplierId": "1c61afb0-b8b4-4233-85fc-166b9bb5cbf0",
+    "CreationDate": "4/22/2021"
+  },
+  {
+    "Id": "fc505058-2519-48ef-abe8-42f848ff380b",
+    "CustomerId": "1adf4ef1-720b-44af-91f8-2294c5eabfaa",
+    "SupplierId": "2273c921-1d60-425f-b41f-c96111d0bb95",
+    "CreationDate": "11/16/2020"
+  },
+  {
+    "Id": "8d22b78e-785e-411a-a82b-a24f0fb29519",
+    "CustomerId": "268a6e36-30e3-408e-b47a-95707b196bf2",
+    "SupplierId": "3c903e13-156e-4de5-a798-4720a04d928c",
+    "CreationDate": "8/23/2020"
+  },
+  {
+    "Id": "441e8e2d-c53d-4b2e-bf30-284f5a7f2904",
+    "CustomerId": "3b086755-89e8-4b67-8fa8-07780289b703",
+    "SupplierId": "46a13cc7-eb5f-4db4-a211-f77b1a6668b6",
+    "CreationDate": "12/10/2020"
+  },
+  {
+    "Id": "385a1f13-7784-4297-b50e-a1f41eb46a41",
+    "CustomerId": "4ec4a4b7-e3b6-4575-9eac-ff6d49292a31",
+    "SupplierId": "6bb65601-d659-43d9-8315-7af7577a6c68",
+    "CreationDate": "2/15/2021"
+  },
+  {
+    "Id": "151fb05d-2b7e-4b3a-8945-7ad8ac7a1cba",
+    "CustomerId": "5917d9a5-ff7a-47d0-9689-07dd9787e2b5",
+    "SupplierId": "711751b1-0086-4ed5-b234-f704f36fb7ce",
+    "CreationDate": "11/2/2020"
+  },
+  {
+    "Id": "03554dce-94e2-48e2-916a-e6e0f0c749da",
+    "CustomerId": "6b19e111-fcab-4874-8a2f-c6980de366a7",
+    "SupplierId": "90c72e50-6733-4639-9985-c622946dcd54",
+    "CreationDate": "12/21/2020"
+  },
+  {
+    "Id": "51876a75-bd4b-40a2-8f9f-16a5ad022abd",
+    "CustomerId": "6b504335-ceaf-4f48-ba1e-b72fad1dfbbf",
+    "SupplierId": "94bb7c0b-8c62-4226-868b-892dedaee602",
+    "CreationDate": "5/26/2021"
+  },
+  {
+    "Id": "44f1e534-e86c-48e9-abee-d88ae683b989",
+    "CustomerId": "bad1b32b-8093-45af-87a0-066bac01d4dc",
+    "SupplierId": "a0c108d0-70c7-4170-b736-5bcd36f72ca3",
+    "CreationDate": "2/21/2021"
+  },
+  {
+    "Id": "b80c180c-b076-46a0-92cd-1ad1f9fd2088",
+    "CustomerId": "d23bfeef-396a-4ed5-b83e-f2ccddeb70b0",
+    "SupplierId": "a0c108d0-70c7-4170-b736-5bcd36f72ca3",
+    "CreationDate": "3/21/2021"
+  },
+  {
+    "Id": "9ddbe38c-ba21-4155-9737-e5e0cc273728",
+    "CustomerId": "e06a57d9-8fd8-4554-978a-49191ccff8a5",
+    "SupplierId": "b86a06ca-e10c-40a2-b59c-c17f6d843015",
+    "CreationDate": "7/11/2021"
+  },
+  {
+    "Id": "1a2c0652-5164-479a-95ba-513525cd9d9a",
+    "CustomerId": "f2e4b001-4169-424a-8746-ca44d657b663",
+    "SupplierId": "d427ba4f-eae9-4fc7-bad7-86cbb188c12b",
+    "CreationDate": "1/15/2021"
+  },
+  {
+    "Id": "ad3f4320-f243-4e52-9df2-412ec9908ab9",
+    "CustomerId": "fa5df2c2-8758-4d36-8685-761b397b6530",
+    "SupplierId": "e457243a-7512-4cf7-897c-099122facdba",
+    "CreationDate": "6/8/2021"
+  }
+]
